@@ -29,6 +29,6 @@
 
 ## Credits
 
-Made by (Marco Caggiano)[https://www.marcocaggiano.com "Marco Caggiano Website"]
+Made by [Marco Caggiano](https://www.marcocaggiano.com "Marco Caggiano Website"]
 
 
