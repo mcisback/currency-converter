@@ -1,4 +1,5 @@
-#Perl Command Line Currency Converter
+Perl Command Line Currency Converter
+=====
 
 ##Install
 
