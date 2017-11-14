@@ -9,7 +9,9 @@
 
     mv currency-converter ~/Scripts
 
-    echo "export PATH="$PATH:~/Scripts/currency-converter" >> ~/.bash_rc
+    chmod +x ~/Scripts/currency-converter/getcurrency.pl
+
+    echo "export PATH=\"$PATH:$HOME/Scripts/currency-converter\"" >> ~/.bashrc
 
 ## Usage
 
