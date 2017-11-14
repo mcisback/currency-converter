@@ -33,4 +33,6 @@
 
 Made by [Marco Caggiano](https://www.marcocaggiano.com "Marco Caggiano Website"), Founder Of [Internet Caffeina](https://www.internetcaffeina.com "Internet Caffeina")
 
+![](http://nojsstats.appspot.com/UA-109694665-1/github.com)
+
 
